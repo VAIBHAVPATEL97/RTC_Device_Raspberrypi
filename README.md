@@ -14,7 +14,7 @@ Hardware components required:
 Software required is Raspbian OS.
 
 
-###  Project related document
+###  Project related documents
 
 1. Research paper:https://www.ijser.org/researchpaper/Real-Time-Communication-RTC-Device-using-Raspberry-Pi.pdf
 2. Detailed project report:https://drive.google.com/open?id=11PFC1LefOQQX4AiPeltTsHS1Gv0Afyrq
